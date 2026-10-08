@@ -1,6 +1,15 @@
-# clase_dam
+# clase\_dam
+
 ## Introducción
+
 ffdfdsfsgg
+
 ## Modo de empleo
+
 [Acceso a la app](https://wwww.google.es)
 **Usa la aplicaión bajo tu responsabilidad**
+
+
+
+**Desde local**
+
